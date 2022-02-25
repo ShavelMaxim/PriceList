@@ -1,0 +1,7 @@
+.div {
+    display: flex; 
+    flex-direction: row;
+}
+.h3 {
+    padding-right: 45px;
+}
